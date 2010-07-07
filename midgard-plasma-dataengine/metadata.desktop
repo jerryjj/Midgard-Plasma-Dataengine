@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Midgard Dataengine
+Comment=Midgard dataengine for Plasmoids
+Type=Service
+ServiceTypes=Plasma/DataEngine
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py 
+ 
+X-KDE-PluginInfo-Author=Jerry Jalava
+X-KDE-PluginInfo-Email=jerry.jalava@iki.fi
+X-KDE-PluginInfo-Name=plasma-dataengine-midgard
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://midgard-project.org/
+X-KDE-PluginInfo-Category=Development Tools
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
